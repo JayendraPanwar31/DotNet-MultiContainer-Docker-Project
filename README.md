@@ -9,3 +9,4 @@ What we need to do:
 6. Build and push Docker images to DockerHub first for each service.
 7. Then we will use docker compose to manage multi containers.
 8. Once these are done we will start learning Kubernetes.
+![Alt Text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2WHIbwc-NX9uATWKmEaJGA.png)

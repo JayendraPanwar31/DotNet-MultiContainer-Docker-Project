@@ -12,12 +12,10 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
     public IActionResult Index()
     {
-        return View();
-    }
-
+        return View(ProductContext.Products);
+ }
     public IActionResult Privacy()
     {
         return View();
